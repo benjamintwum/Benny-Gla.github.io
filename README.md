@@ -1,2 +1,2 @@
 # Benny-Gla.github.io
-https://benjamintwum.github.io/Benny-Gla.github.io/
+https://Benny-Gla.github.io/lab/simd_2020.html
